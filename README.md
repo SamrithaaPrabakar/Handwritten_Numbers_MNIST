@@ -19,7 +19,5 @@ to recognize handwritten digits from the **MNIST dataset** (0–9).
 
 
 
----
 
-python main.py
 
