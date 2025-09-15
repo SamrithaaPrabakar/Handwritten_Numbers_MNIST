@@ -1,3 +1,4 @@
+
 # Handwritten_Numbers_MNIST
 # 🖊️ Handwritten Character Recognition (Feedforward Neural Network)
 
@@ -16,3 +17,22 @@ to recognize handwritten digits from the **MNIST dataset** (0–9).
 ---
 
 ## 📂 Project Structure
+handwritten-character-recognition/
+│
+├── notebooks/ # Colab notebooks
+│ └── mnist_ffnn.ipynb
+│
+├── src/ # Python modules
+│ ├── model.py # model building
+│ ├── visualize.py # visualization + ROC curve
+│
+├── main.py # training + evaluation script
+├── requirements.txt # dependencies
+├── README.md # this file
+└── .gitignore
+
+
+---
+
+python main.py
+
